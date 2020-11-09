@@ -1,0 +1,7 @@
+L:\POC\UserEventTracker\UserEventTracker\bin\Debug\UserEventTracker.exe.config
+L:\POC\UserEventTracker\UserEventTracker\bin\Debug\UserEventTracker.exe
+L:\POC\UserEventTracker\UserEventTracker\bin\Debug\UserEventTracker.pdb
+L:\POC\UserEventTracker\UserEventTracker\obj\Debug\UserEventTracker.csprojAssemblyReference.cache
+L:\POC\UserEventTracker\UserEventTracker\obj\Debug\UserEventTracker.csproj.CoreCompileInputs.cache
+L:\POC\UserEventTracker\UserEventTracker\obj\Debug\UserEventTracker.exe
+L:\POC\UserEventTracker\UserEventTracker\obj\Debug\UserEventTracker.pdb
